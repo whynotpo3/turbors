@@ -1,0 +1,1034 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<ns1:channel rdf:about="https://www.4gamer.net">
+<ns1:title>4Gamer.net − 最新記事</ns1:title>
+<ns1:link>https://www.4gamer.net/</ns1:link>
+<ns1:description>日本最大級の総合ゲームサイトです。コンシューマゲームやオンラインゲーム，iPhone/iPadのゲーム，そしてPC のディープなハードウェア情報まで，日本だけでなく世界からも最新ゲームニュースをお届けします。ほかにも，ユーザーレビューなどのクチコミ情報も充実。</ns1:description>
+<dc:language>ja</dc:language>
+<dc:rights>Copyright (C) 2000-2026 Aetas Inc. All Rights Reserved. 本サ
+イト「4Gamer.net」の内容は，すべて無断転載を禁止します。ただし商用利用を
+除き，リンクについてはその限りではありません。
+</dc:rights>
+<dc:date>2026-10-11T15:00:00+09:00</dc:date>
+<dc:publisher>4Gamer.net</dc:publisher>
+<dc:creator>Aetas（株）</dc:creator>
+<dc:subject>4Gamer.net</dc:subject>
+<ns1:items>
+ <rdf:Seq>
+
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/476/G047609/20261009048/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104930/20261011002/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104929/20261010013/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/038/G003821/20261009008/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999110/20261010010/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/779/G077989/20261010005/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/004/G100471/20261010011/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/476/G047609/20261009047/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/036/G103670/20261010009/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999110/20261010007/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999110/20261010008/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999110/20261010006/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/985/G098513/20261009024/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104928/20261009060/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/810/G081093/20261007048/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104870/20261008026/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104923/20261009056/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/631/G063178/20261010004/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/882/G088208/20261006034/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/649/G064915/20261010003/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/402/G040245/20261010002/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/639/G063965/20261010001/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104924/20261009059/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/630/G063081/20261009057/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/993/G099381/20261009054/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104922/20261009055/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/986/G098698/20261009053/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/666/G066636/20261009052/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/037/G103786/20261009051/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/760/G076029/20261009049/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/476/G047609/20261009046/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/976/G097651/20261005028/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/987/G098799/20261009042/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/014/G101487/20261009044/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/882/G088214/20261009043/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104921/20261009040/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/828/G082821/20261009039/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/968/G096854/20261009038/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/926/G092689/20261009035/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/043/G104364/20261009037/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/456/G045622/20261009036/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/939/G093966/20261009034/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/651/G065198/20261009033/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/918/G091863/20261009030/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/760/G076023/20261009032/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/982/G098251/20261009028/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/968/G096803/20261009031/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/238/G023885/20261009029/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/035/G103503/20261009027/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/189/G018964/20261009022/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104912/20261009025/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/343/G034351/20261009026/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/625/G062571/20261009023/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/937/G093723/20261009020/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/998/G099824/20261009021/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/999/G999905/20261009019/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/011/G101152/20261009018/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/015/G101558/20261009015/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/276/G027611/20261009014/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/758/G075801/20261009016/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/002/G100266/20261009012/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/426/G042651/20261005004/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/049/G104900/20261009013/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/999/G999901/20261009006/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104897/20261009011/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/865/G086555/20261009010/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104889/20261009007/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/964/G096496/20261009003/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/908/G090883/20261009009/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/029/G002975/20260921064/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/008/G100845/20261008053/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/941/G094160/20261008025/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/802/G080235/20261008054/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/484/G048410/20261009002/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/635/G063598/20261009005/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999110/20261009001/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/709/G070944/20261006038/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/709/G070944/20261006026/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/587/G058755/20261008048/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/025/G102544/20261008005/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999104/20261006020/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104888/20261008052/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/649/G064915/20261008051/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104885/20261008047/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/900/G090034/20261008050/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/010/G101096/20261008049/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104886/20261008046/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/004/G100451/20261008045/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/456/G045622/20261008044/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/609/G060942/20261008042/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/991/G999106/20261008004/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/903/G090320/20261008040/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/999/G999903/20261008041/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/048/G104884/20261008039/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/476/G047609/20261008038/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/202/G020261/20261008037/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/223/G022384/20261008036/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/882/G088214/20261008035/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/040/G104086/20261008034/" />
+	  <rdf:li rdf:resource="https://www.4gamer.net/games/915/G091522/20261008033/" />
+
+
+ </rdf:Seq>
+</ns1:items>
+</ns1:channel>
+
+<ns1:image rdf:about="https://www.4gamer.net/image/logo_publisher_wide_4gamer.png">
+ <ns1:title>4Gamer.net</ns1:title> 
+ <ns1:link>https://www.4gamer.net/</ns1:link> 
+ <ns1:url>https://www.4gamer.net/image/logo_publisher_wide_4gamer.png</ns1:url> 
+</ns1:image>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/476/G047609/20261009048/">
+<ns1:title>"Proseca" Adds "at" to Its Rhythm Game Track List as Part of Its 6th Anniversary Song Addition Campaign</ns1:title>
+<ns1:link>https://www.4gamer.net/games/476/G047609/20261009048/</ns1:link>
+<dc:date>2026-10-11T15:00:00+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104930/20261011002/">
+<ns1:title>"Huni Kuin: Beya Xin' Bena" is a 2D action game [BGS2026] featuring artwork and voice acting by Amazonian villagers.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104930/20261011002/</ns1:link>
+<dc:date>2026-10-11T12:07:36+09:00</dc:date>
+<ns1:description>
+　"HuniKuin: BeyaXin'Bena," a game developed with the involvement of Amazonian indigenous peoples, was on display at "BrasilGameShow 2026." The game is based on myths passed down through the tribe and is scheduled for release in the first quarter of 2027. We spoke with Guilherme Meneses, an anthropologist who has been working with the Huni Kuin people for over 14 years.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104929/20261010013/">
+<ns1:title>Survive hell in a game of rigged poker. “Hell Hold’em,” where “666” is the strongest hand, is a highly anticipated title that masterfully blends roguelike elements with Texas Hold’em.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104929/20261010013/</ns1:link>
+<dc:date>2026-10-10T18:13:29+09:00</dc:date>
+<ns1:description>
+　At the “SAGABarcelonaGameFest2026” gaming event, numerous indie titles that have garnered attention for their original ideas are on display. Among them, “HellHold’em”—a deck-building roguelike set in Hell—is capturing the attention of attendees with its unique world and robust gameplay.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/038/G003821/20261009008/">
+<ns1:title>Weekly Steam Plaza, Issue 174: “Clive Barker’s Hellraiser: Revival” and “Star Wars: Galactic Racer” Now Available</ns1:title>
+<ns1:link>https://www.4gamer.net/games/038/G003821/20261009008/</ns1:link>
+<dc:date>2026-10-10T18:00:00+09:00</dc:date>
+<ns1:description>
+　"Weekly Steam Plaza" brings you the latest notable titles and sale information from Steam released this week. This week saw the release of “Clive Barker’s Hellraiser: Revival,” based on the horror film series “Hellraiser,” and the roguelike racing game “Star Wars: Galactic Racer.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999110/20261010010/">
+<ns1:title>An exclusive look inside Scopely, the company that has transformed Barcelona into a major development hub in Southern Europe. Introducing a mobile game company that’s actually quite familiar to Japanese audiences.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999110/20261010010/</ns1:link>
+<dc:date>2026-10-10T17:39:28+09:00</dc:date>
+<ns1:description>
+　Barcelona is buzzing with excitement as it hosts “SAGABarcelonaGameFest2026.” Scopely is one of the companies supporting this city as it evolves into a hub for game development. Let’s take a look at this company, which operates “ScopelyExplore”—a service you may have seen in “Pokémon GO.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/779/G077989/20261010005/">
+<ns1:title>Chief, it’s time to board! Let’s look back on the journey of “18TRIP” and head to “HAMA TRANSIT CHECK-IN to Season 2,” where 30 district chiefs await [PR]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/779/G077989/20261010005/</ns1:link>
+<dc:date>2026-10-10T16:38:48+09:00</dc:date>
+<ns1:description>
+　Chief, the flight to Season 2 is about to depart! The “HAMATRANSITCHECK-INtoSeason2” promotional campaign for “18TRIP” is currently on display at Minatomirai Station through October 12. From an exhibition looking back on Season 1 to full-body panels of 30 ward mayors, here’s our report on the venue transformed into an “airport.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/004/G100471/20261010011/">
+<ns1:title>Passing on the story of a tragedy that occurred in their hometown through a game. “ARIDA 2: Rise of the Brave,” developed by a studio in Bahia [BGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/004/G100471/20261010011/</ns1:link>
+<dc:date>2026-10-10T16:20:53+09:00</dc:date>
+<ns1:description>
+　At the “BrasilGameShow2026,” which opened on October 9, 2026, AocaGameLab’s “ARIDA2: Rise of the Brave” was on display. This was their second appearance following “gamescomlatam2026” in May, and the demo version available this time could be played in Japanese. Filipe Pereira, CEO and producer, spoke about why he chose to turn the history of his hometown into a game.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/476/G047609/20261009047/">
+<ns1:title>"Proseca" Adds "Hydrangea" to Its Rhythm Game Track List; 3D Music Video Also Released</ns1:title>
+<ns1:link>https://www.4gamer.net/games/476/G047609/20261009047/</ns1:link>
+<dc:date>2026-10-10T15:00:00+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/036/G103670/20261010009/">
+<ns1:title>Prologue video for “Shikai” released. A brand-new occult suspense film from the staff behind the “Science Adventure” series.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/036/G103670/20261010009/</ns1:link>
+<dc:date>2026-10-10T14:54:14+09:00</dc:date>
+<ns1:description>
+　MAGES. has released a prologue video for its new adventure game, *Shikai*, scheduled for release in the winter of 2026. This unique title comes from the team behind the “Science Adventure” series—which has explored the world’s mysteries through “logic and science” in titles such as “STEINS;GATE”—and delves into “supernatural phenomena” that cannot be explained by science.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999110/20261010007/">
+<ns1:title>"SAGA Barcelona Game Fest 2026," one of Southern Europe's largest gaming events, which combines three separate events, will be held. A legend of video game music from Japan, the guest country, will also be in attendance.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999110/20261010007/</ns1:link>
+<dc:date>2026-10-10T14:51:11+09:00</dc:date>
+<ns1:description>
+　"SAGABarcelonaGameFest2026" is currently being held in Barcelona, Spain, from October 9 to 11. This new gaming event combines three separate events, and Japan has been selected as the guest country for its inaugural edition. A talk session featuring Miki Higashino and Manami Matsumae will also be held.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999110/20261010008/">
+<ns1:title>From the Switch 2 demo stations to the replica sword shop: A photo report from the BGS venue, where merchandise booths take center stage [BGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999110/20261010008/</ns1:link>
+<dc:date>2026-10-10T13:10:54+09:00</dc:date>
+<ns1:description>
+　At the "BrasilGameShow 2026" gaming event, taking place from October 9 to 12, 2026, alongside hands-on demo booths run by game developers, shops selling figurines, replica swords, and used retro games are packed together, and there’s also a large section dedicated to arcade machines and motion simulators. Here are some photos from the venue on the first day.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999110/20261010006/">
+<ns1:title>"Brasil Game Show 2026" Kicks Off. Sega Unveils New "Brazil" Map for "Crazy Taxi: World Tour" at Opening Event [BGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999110/20261010006/</ns1:link>
+<dc:date>2026-10-10T12:02:19+09:00</dc:date>
+<ns1:description>
+　On October 9, 2026, “BrasilGameShow 2026” kicked off in São Paulo, Brazil. Before the doors opened on the first day, the “BGS Conference” was held, where exhibitors introduced their new titles and products. Sega revealed, through a world-premiere video, that “Brazil” will appear in the story mode of “Crazy Taxi: World Tour.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/985/G098513/20261009024/">
+<ns1:title>Just three dice can unleash tens of millions of power. “DiceVaders” is a “dice roguelike” that takes board-game-style engine-building to the digital extreme [Play Report]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/985/G098513/20261009024/</ns1:link>
+<dc:date>2026-10-10T12:00:00+09:00</dc:date>
+<ns1:description>
+　"DiceVaders," developed by Pengonauts, is a roguelike dice game set in the same universe as "StarVaders." Players roll three dice and chain their effects together to achieve a high score. Let’s take a look at what makes this game so appealing—it lets you experience the fun of board-game-style engine-building in a digital format.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104928/20261009060/">
+<ns1:title>A "QUEEN'S GUARD" Play Report That Reflects the Passion of Experienced Swordsmen. An Action-Adventure Game Where You Protect the Princess as Her Bodyguard [OIGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104928/20261009060/</ns1:link>
+<dc:date>2026-10-10T10:30:00+09:00</dc:date>
+<ns1:description>
+　At the “OSAKA INDIE GAME SUMMIT 2026,” held on October 3 and 4, a demo version of MIBUKI STUDIO’s action adventure game “QUEEN’S GUARD” was on display. Let’s take a look at the realistic feel of the combat—which reflects the developer’s expertise in swordsmanship—and the game itself, scheduled for release in 2027, along with comments from the developer.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/810/G081093/20261007048/">
+<ns1:title>Tickets for “Lilia Game Music Selection Vol. 3: Kenji Ito with Tsutomu Narita” went on sale today. The event will be held in Kawaguchi on March 13, 2027.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/810/G081093/20261007048/</ns1:link>
+<dc:date>2026-10-10T10:00:00+09:00</dc:date>
+<ns1:description>
+　General ticket sales for the concert “Lilia Game Music Selection Vol. 3: Kenji Ito with Tsutomu Narita,” to be held on March 13, 2027, at the Kawaguchi General Cultural Center Lilia, began today (October 10) at 10:00 a.m. Tickets are 8,000 yen (tax included) for all reserved seats.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104870/20261008026/">
+<ns1:title>Use your mouse to dash like a flash of lightning and slice enemies in half! A play report on the ultra-high-speed action game “▽△Slash,” created by a student team from HAL Osaka [OIGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104870/20261008026/</ns1:link>
+<dc:date>2026-10-10T09:30:00+09:00</dc:date>
+<ns1:description>
+　At the “OSAKA INDIE GAME SUMMIT 2026,” held on October 3 and 4, a demo version of “▽△Slash (Tri-Slash),” a PC action game developed by students at HAL Osaka Vocational School, was on display. In this title, players can experience an exhilarating sense of speed as a half-human, half-yōkai girl cuts down yokai with overwhelming force.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104923/20261009056/">
+<ns1:title>The terror of navigating the darkness by candlelight and the psychological unease that creeps up on you. A hands-on report on “Kindling Hour,” a click-based psychological horror adventure game [OIGS2026]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104923/20261009056/</ns1:link>
+<dc:date>2026-10-10T09:00:00+09:00</dc:date>
+<ns1:description>
+　At the “OSAKA INDIE GAME SUMMIT 2026,” held on October 3 and 4, a demo version of “Kindling Hour,” a psychological horror adventure by game sound designer KuwaPon, was showcased. Here, we’ll share the unique feel of this unconventional title—where you encounter strange phenomena as you venture through the darkness—along with comments from the developer.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/631/G063178/20261010004/">
+<ns1:title>"Dollfro 2" 2nd Anniversary Orchestral Concert "The Dolls' White Nocturne" Confirmed; Some Newly Drawn Illustrations Revealed</ns1:title>
+<ns1:link>https://www.4gamer.net/games/631/G063178/20261010004/</ns1:link>
+<dc:date>2026-10-10T07:00:00+09:00</dc:date>
+<ns1:description>
+　On October 9, 2026, Samborn Japan will hold an orchestral concert titled “The Dolls’ White Nocturne” to commemorate the second anniversary of the launch of the smartphone and PC RPG "Dolls Frontline 2: Exilium," to be held on January 15, 2027, at the Rene Kodaira Grand Hall in Tokyo.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/882/G088208/20261006034/">
+<ns1:title>"Sonic Racing Cross World," which has celebrated its first anniversary, is moving on to Season 2. Get an early look at "Godzilla" and "Evangelion" collaboration tracks and new game modes.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/882/G088208/20261006034/</ns1:link>
+<dc:date>2026-10-10T05:00:00+09:00</dc:date>
+<ns1:description>
+　Sega plans to release the latest DLC, “Season Pass 2,” for its currently available racing game “Sonic Racing Cross World” on November 4. We got an early look at the first installment, the “Godzilla Pack,” and the second installment, the “Evangelion Pack.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/649/G064915/20261010003/">
+<ns1:title>"Rage of the Wolves: City of the Wolves" Welcomes "Reina" from Tekken 8! Scheduled for release in December to wrap up Season 3</ns1:title>
+<ns1:link>https://www.4gamer.net/games/649/G064915/20261010003/</ns1:link>
+<dc:date>2026-10-10T02:06:27+09:00</dc:date>
+<ns1:description>
+　SNK announced today (October 10, 2026) at “EVO France 2026,” currently being held in Nice, France, that “Reina” from “Tekken 8” will be joining the roster as a new DLC character for “Fatal Fury: City of the Wolves.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/402/G040245/20261010002/">
+<ns1:title>The "Knives Out" × "Don Quijote" collaboration kicks off today. Take a commemorative photo with the giant Npen for a chance to win in-game items.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/402/G040245/20261010002/</ns1:link>
+<dc:date>2026-10-10T00:57:13+09:00</dc:date>
+<ns1:description>
+　NetEase Games announced today (October 10, 2026) that it has launched a collaboration between the battle royale game "Knives Out" and the discount retailer "Don Quijote." During the collaboration period, “Donpen,” Don Quijote’s official mascot, will appear in giant form on the “Storm Peninsula” map.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/639/G063965/20261010001/">
+<ns1:title>"Board Game Arena" Officially Launches "Puppet Master: Duel," a Two-Player Remake of the Classic Board Game</ns1:title>
+<ns1:link>https://www.4gamer.net/games/639/G063965/20261010001/</ns1:link>
+<dc:date>2026-10-10T00:30:02+09:00</dc:date>
+<ns1:description>
+　On October 7, 2026, Asmodee Digital officially launched Z-Man Games’ board game “Citadels Duel” on “Board Game Arena,” the online board game site it operates. This game is a two-player reimagining of “Puppet Master,” in which players use the abilities of their roles to compete for control of buildings in a shared 4×4 grid city.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104924/20261009059/">
+<ns1:title>Build a new pantheon in a post-Ragnarok world! “Aftergods,” a top-down action RPG featuring the children of the gods in battle, has been announced.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104924/20261009059/</ns1:link>
+<dc:date>2026-10-09T23:29:50+09:00</dc:date>
+<ns1:description>
+　Norsfell announced its new title, “Aftergods,” today (October 9, 2026). In this top-down survival action RPG, you play as the child of a god who survived Ragnarok, gathering followers to build a new pantheon. You’ll use divine powers to survive, such as gathering resources through storms and summoning temples.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/630/G063081/20261009057/">
+<ns1:title>"Zenless Zone Zero" Ver. 3.3 is set to launch on October 21. The Steam version is also scheduled for release at the same time. Details about a collaboration with "Honkai: Star Rail" have also been revealed.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/630/G063081/20261009057/</ns1:link>
+<dc:date>2026-10-09T22:19:14+09:00</dc:date>
+<ns1:description>
+　HoYoverse released a preview video today (October 9, 2026) for the action RPG “Zenless Zone Zero” and announced that Version 3.3, “Take Flight Once More,” will be released on October 21. This update will introduce S-Rank Agents “Fionie” and “Severian,” along with new mecha combat content.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/993/G099381/20261009054/">
+<ns1:title>"Forever Ago," a narrative adventure game in which an elderly man travels to places from his past in a minivan, is now available.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/993/G099381/20261009054/</ns1:link>
+<dc:date>2026-10-09T21:45:45+09:00</dc:date>
+<ns1:description>
+　On October 8, 2026, Annapurna Interactive released “ForeverAgo,” a new title developed by ThirdShift. This road trip adventure game follows “Alfred,” an elderly man who has reached a tragic turning point in his life, as he embarks on a journey to revisit the places where he shared memories with his lover, “Audrey.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104922/20261009055/">
+<ns1:title>Turn a walkable city into one where cars are a must! “Car Park Capital,” a “satirical” management sim that makes residents car-dependent, launches in Early Access</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104922/20261009055/</ns1:link>
+<dc:date>2026-10-09T21:37:50+09:00</dc:date>
+<ns1:description>
+　MicroProse Software today (October 9, 2026) launched Early Access on Steam for “CarPark Capital,” a new PC game developed by Hilkojj Interactive. It is a management sim in which players convert residential properties into parking lots and use advertising to encourage residents to become car-dependent in order to turn a profit.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/986/G098698/20261009053/">
+<ns1:title>You are a beta tester for a system that lets you freely correspond with the dead. "Posthumors," an adventure game where you communicate with ghosts, has launched in Early Access on Steam.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/986/G098698/20261009053/</ns1:link>
+<dc:date>2026-10-09T21:07:10+09:00</dc:date>
+<ns1:description>
+　Anisa Cafe launched early access for the PC game “Posthumors” today. This adventure game involves corresponding with ghosts to communicate with the afterlife. As a test user selected for a system that allows you to freely correspond with the dead, you’ll exchange letters with ghosts detained in a hellish holding facility.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/666/G066636/20261009052/">
+<ns1:title>"Nobunaga's Ambition: Hado" Begins Accepting Applications for Its 4th Anniversary Official Fan Gathering. Executive Producer Tomohiro Kuroda and cast members from the official livestream are scheduled to attend.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/666/G066636/20261009052/</ns1:link>
+<dc:date>2026-10-09T20:50:58+09:00</dc:date>
+<ns1:description>
+　Koei Tecmo Games announced today (October 9, 2026) that it has begun accepting applications for the official 4th-anniversary meetup for *Nobunaga’s Ambition: Hado*. The event is scheduled to take place on December 6 at the KT Building in Yokohama. The event will feature opportunities to interact with the executive producer and cast members of the official livestream, as well as a quiz contest. The event is limited to 40 participants, and the application deadline is October 18 at 11:59 PM.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/037/G103786/20261009051/">
+<ns1:title>"Clive Barker's Hellraiser: Revival," a survival horror series that continues the official storyline of the "Hellraiser" film franchise, is now streaming.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/037/G103786/20261009051/</ns1:link>
+<dc:date>2026-10-09T20:45:20+09:00</dc:date>
+<ns1:description>
+　On October 8, 2026, SaberInteractive released its new title, “Clive Barker’s Hellraiser: Revival.” This first-person survival horror game follows the canonical storyline of the series, which began with the 1987 horror film “Hellraiser.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/760/G076029/20261009049/">
+<ns1:title>A Party with 63 Hololive Members in Dresses! A Peek Inside the Tokyo Venue for “hololive Grand Reception ~An Invitation Filled with Gratitude~”</ns1:title>
+<ns1:link>https://www.4gamer.net/games/760/G076029/20261009049/</ns1:link>
+<dc:date>2026-10-09T20:33:37+09:00</dc:date>
+<ns1:description>
+　The “hololive” 9th Anniversary Event, “hololive Grand Reception ~An Invitation Filled with Gratitude~,” will be held sequentially at a total of four venues—starting in Tokyo on October 10, 2026, and continuing in Osaka, Nagoya, and Fukuoka. A preview event for members of the press was held the day before the opening, so I’d like to report on the event, focusing primarily on photos.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/476/G047609/20261009046/">
+<ns1:title>"Proseca" adds "Darling" to its rhythm game tracklist. Full-length 2D music video for "Reincarnated Apple" (Sekai Ver.) released</ns1:title>
+<ns1:link>https://www.4gamer.net/games/476/G047609/20261009046/</ns1:link>
+<dc:date>2026-10-09T20:06:41+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/976/G097651/20261005028/">
+<ns1:title>"Hungry Horrors," a deck-building adventure game where you serve food instead of fighting monsters, will release its official Version 1.0 on October 13</ns1:title>
+<ns1:link>https://www.4gamer.net/games/976/G097651/20261005028/</ns1:link>
+<dc:date>2026-10-09T20:00:00+09:00</dc:date>
+<ns1:description>
+　ClumsyBearStudio announced today (October 9, 2026) that it will release the official Version 1.0 of “Hungry Horrors,” currently in Early Access on Steam, on October 13. The price is 1,700 yen (tax included). This deck-building adventure game challenges players to serve meals to monsters and satisfy them before they eat the player.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/987/G098799/20261009042/">
+<ns1:title>What secrets lie hidden in a town overrun by monsters? The Metroidvania-style survival horror game “Silver Pines” is now available.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/987/G098799/20261009042/</ns1:link>
+<dc:date>2026-10-09T19:58:34+09:00</dc:date>
+<ns1:description>
+　Team17 released "SilverPines," a new title developed by WychElm, today (October 9, 2026). Set in a small American town, this Metroidvania-style survival horror game follows private detective Red Walker as he uncovers secrets hidden in the darkness.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/014/G101487/20261009044/">
+<ns1:title>School by day, demon hunting by night. “Catechesis,” a horror RPG from the developers of “Yuppie Psycho,” is set for release in the summer of 2027—more than 10 years in the making.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/014/G101487/20261009044/</ns1:link>
+<dc:date>2026-10-09T19:50:27+09:00</dc:date>
+<ns1:description>
+　BaroqueDecay has announced that it will release the PC horror RPG “Catechesis” in the summer of 2027. Development on the title was suspended after its initial announcement in 2013, but it has now been revived after more than 10 years. In addition, an update has been released for the demo currently available.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/882/G088214/20261009043/">
+<ns1:title>"SONIC MUSIC EXPERIENCE," a live music event featuring the "Sonic" series, will be held in Osaka on December 4</ns1:title>
+<ns1:link>https://www.4gamer.net/games/882/G088214/20261009043/</ns1:link>
+<dc:date>2026-10-09T19:46:33+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104921/20261009040/">
+<ns1:title>"Mame-Kasu-chan: The Girl Who Randomly Talks About Trivia and Lies as Trivial as Trash," a fully voiced adventure game that exposes the lies hidden within trivia, has launched its Steam store page.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104921/20261009040/</ns1:link>
+<dc:date>2026-10-09T19:37:24+09:00</dc:date>
+<ns1:description>
+　The game development club Yako-ken today launched the Steam store page for its PC game “Mame-Kasu-chan: A Girl Who Randomly Shares Trivia and Trivial Lies.” This fully voiced adventure game challenges players to expose the trivial lies told by “Mame-Kasu-chan,” a mysterious girl who spouts one surprising piece of trivia after another.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/828/G082821/20261009039/">
+<ns1:title>"Two Point Museum" Releases "Yuenchium," an Amusement Park-Themed DLC</ns1:title>
+<ns1:link>https://www.4gamer.net/games/828/G082821/20261009039/</ns1:link>
+<dc:date>2026-10-09T19:30:43+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/968/G096854/20261009038/">
+<ns1:title>"Stupid Never Dies": Development Team Releases Video Explaining the Art</ns1:title>
+<ns1:link>https://www.4gamer.net/games/968/G096854/20261009038/</ns1:link>
+<dc:date>2026-10-09T19:21:19+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/926/G092689/20261009035/">
+<ns1:title>"VAULTBREAKERS," a top-down escape-style action RPG, releases its demo on Steam today. Choose one of two characters and explore the early-game map.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/926/G092689/20261009035/</ns1:link>
+<dc:date>2026-10-09T19:19:37+09:00</dc:date>
+<ns1:description>
+　Square Enix today began distributing a demo version of "VAULTBREAKERS," an escape-themed action RPG developed by BetaDwarf, on Steam. Players can choose one of two characters and experience the gameplay—exploring the early-game map in solo or co-op mode to retrieve artifacts.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/043/G104364/20261009037/">
+<ns1:title>Entries Now Open for the Online Qualifiers of “KING of Performai The 8th,” the National Championship for “maimai de lux,” “CHUNITHM,” and “Ongeki”</ns1:title>
+<ns1:link>https://www.4gamer.net/games/043/G104364/20261009037/</ns1:link>
+<dc:date>2026-10-09T19:16:22+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/456/G045622/20261009036/">
+<ns1:title>"Goddess of Victory: NIKKE" Releases On-Site Report on the Second Kyoto Collaboration</ns1:title>
+<ns1:link>https://www.4gamer.net/games/456/G045622/20261009036/</ns1:link>
+<dc:date>2026-10-09T18:59:12+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/939/G093966/20261009034/">
+<ns1:title>"A Leisurely Farm Life in Another World: Dreamy Life" Surpasses 100,000 Pre-Registrations</ns1:title>
+<ns1:link>https://www.4gamer.net/games/939/G093966/20261009034/</ns1:link>
+<dc:date>2026-10-09T18:54:53+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/651/G065198/20261009033/">
+<ns1:title>"Fūen-den: Where Winds Meet" will introduce the new region "Qingzhou" on October 15. Information on the weapon "Mai-Aya Drum" and three new wild bosses has also been revealed.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/651/G065198/20261009033/</ns1:link>
+<dc:date>2026-10-09T18:52:59+09:00</dc:date>
+<ns1:description>
+　NetEase Games and Everstone Studio announced today (October 9, 2026) that they will add the new region “Qingzhou” to the wuxia open-world action RPG *Feng Yan Zhuan: Where Winds Meet* on October 15. Additionally, the “Wuying Drum”—a weapon that fuses dance and martial arts—and three new wild bosses will also be added.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/918/G091863/20261009030/">
+<ns1:title>A report on “SONIC the Exhibition -ACROSS GENERATIONS-,” an exhibition commemorating the 35th anniversary of “Sonic.” The exhibition features artworks brimming with love and rare, never-before-seen materials.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/918/G091863/20261009030/</ns1:link>
+<dc:date>2026-10-09T18:39:05+09:00</dc:date>
+<ns1:description>
+　"SONIC the Exhibition—ACROSS GENERATIONS—," an event commemorating the 35th anniversary of Sega's iconic character "Sonic," is being held from October 9 to November 1, 2026, at PARCO FACTORY on the 7th floor of the Ikebukuro PARCO Main Building. This article provides a look at the media preview held on October 8.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/760/G076023/20261009032/">
+<ns1:title>Explore the city while being watched by giant police officers and aim to escape using a variety of methods. A demo version of the stealth adventure game "Militsioner," featuring the entire first act, is now available to the public.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/760/G076023/20261009032/</ns1:link>
+<dc:date>2026-10-09T18:27:16+09:00</dc:date>
+<ns1:description>
+　CRITICALREFLEX today began distributing a demo version of the new game "Militsioner," developed by TALLBOYS, on Steam. The demo includes Act 1 in its entirety, and features significant improvements to the city, its residents, the giants, and the exploration paths since the playtest conducted in August 2025.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/982/G098251/20261009028/">
+<ns1:title>"Satori Chuunibyou Counseling Room - Translator of the Second Reality" Released on Steam as an Early Access Title. Try to decipher the true feelings of visitors suffering from chuunibyou.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/982/G098251/20261009028/</ns1:link>
+<dc:date>2026-10-09T18:17:21+09:00</dc:date>
+<ns1:description>
+　Fine released the early access version of the PC game “Satori Chuunibyou Counseling Room: Translator of the Second Reality” on Steam today. This title is a psychological mystery adventure game centered on the theme of “chuunibyou.” As the director of the counseling center, the player must decipher the “Second Reality”—an otherworldly worldview believed in by visitors suffering from “chuunibyou.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/968/G096803/20261009031/">
+<ns1:title>"Order of the Sinking Star," the new game from Jonathan Blow, creator of "The Witness" and "Braid," is out today.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/968/G096803/20261009031/</ns1:link>
+<dc:date>2026-10-09T18:07:57+09:00</dc:date>
+<ns1:description>
+　ArcGames released its new title, “Order of the Sinking Star,” today (October 9, 2026). Created by Jonathan Blow, known for “The Witness” and “Braid,” this puzzle-adventure game challenges players’ intellect with over 1,000 puzzles.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/238/G023885/20261009029/">
+<ns1:title>Collaboration illustrations between "Granblue Fantasy" and Sanrio characters have been unveiled for the first time. Eight characters, including Sandalphon and Narmea, make an appearance.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/238/G023885/20261009029/</ns1:link>
+<dc:date>2026-10-09T18:00:00+09:00</dc:date>
+<ns1:description>
+　On October 9, 2026, Cygames unveiled the first illustration as part of a follow-up announcement regarding its collaboration with Sanrio Characters, which will take place at “Granblue Festival 2026.” The illustration features characters from “Granblue Fantasy”—such as Filkiss, Sandalphon, and Narmea—alongside Sanrio characters.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/035/G103503/20261009027/">
+<ns1:title>"Japanese Ramen Simulator" Early Access Version Finally Released. Work together with up to 6 players to run your own specialty ramen shop.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/035/G103503/20261009027/</ns1:link>
+<dc:date>2026-10-09T17:05:55+09:00</dc:date>
+<ns1:description>
+　Wild Dog released the early access version of its PC game “Japanese Ramen Simulator” on Steam today. This game is a ramen shop management simulation that supports up to six players. The original release date was September 28, but the developer used the extra time gained from the delay to add dan dan noodles and a new ingredient, “garlic chives.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/189/G018964/20261009022/">
+<ns1:title>Paramount Pictures is planning a feature-length live-action film set in the world of "Cyberpunk 2077." CD PROJEKT RED, the game's developer, will also participate in the production.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/189/G018964/20261009022/</ns1:link>
+<dc:date>2026-10-09T16:44:28+09:00</dc:date>
+<ns1:description>
+　It has been revealed that Paramount Pictures is planning a feature-length live-action film set in the world of “Cyberpunk 2077.” Lorenz di Bonaventura, who worked on the “Transformers” series, will serve as producer, and CD Projekt RED will also participate in the production.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104912/20261009025/">
+<ns1:title>"Reply Signals - Echoes Still Wait," a dialogue-based adventure game where you talk to captive children and help them escape, has released a demo on Steam.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104912/20261009025/</ns1:link>
+<dc:date>2026-10-09T16:43:43+09:00</dc:date>
+<ns1:description>
+　Tesaria Studio released a demo version of its PC game “Reply Signals—Echoes Still Wait” on Steam today. This interactive adventure game puts players in the role of a child trapped in a closed-off world and the “someone” who is the only person connected to them, helping the child escape through chat.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/343/G034351/20261009026/">
+<ns1:title>"Infection × Girl" will end service at 2:00 p.m. on December 10, 2026. This brings to a close a history spanning approximately 10 years since the smartphone version launched in August 2016.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/343/G034351/20261009026/</ns1:link>
+<dc:date>2026-10-09T16:27:50+09:00</dc:date>
+<ns1:description>
+　On October 8, 2026, Age announced that it would terminate service for the smartphone RPG “Infection × Girl” at 2:00 PM on December 10, 2026. The game, which launched for iOS and Android in August 2016, will bring its nearly 10-year run to a close.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/625/G062571/20261009023/">
+<ns1:title>"Rainbow Six Mobile" will end service on January 15, 2027. The next season will be released next week as scheduled.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/625/G062571/20261009023/</ns1:link>
+<dc:date>2026-10-09T15:58:18+09:00</dc:date>
+<ns1:description>
+　Ubisoft announced today that it will discontinue service for “Rainbow Six Mobile” on January 15, 2027. Following a soft launch in 2023, the game was released worldwide on February 23, 2026, meaning service will end after approximately 11 months. The next season will be released next week as scheduled.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/937/G093723/20261009020/">
+<ns1:title>All you can see is the back of the girl. "Cyan Heart," a horror adventure game played from a first-person perspective, is now available on Steam.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/937/G093723/20261009020/</ns1:link>
+<dc:date>2026-10-09T15:39:00+09:00</dc:date>
+<ns1:description>
+　Independent developer Shoei Sio released his new title, “CyanHeart,” today (October 9, 2026). The game is a horror exploration puzzle adventure played from the perspective of a girl who continuously films herself with a camera.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/998/G099824/20261009021/">
+<ns1:title>"Professor Layton and the New World of Steam": The early purchase bonus for the physical edition and the pre-order bonus for the digital edition is "Series Sound Selection."</ns1:title>
+<ns1:link>https://www.4gamer.net/games/998/G099824/20261009021/</ns1:link>
+<dc:date>2026-10-09T15:36:33+09:00</dc:date>
+<ns1:description>
+　Level-5 announced today (October 9, 2026) the early purchase bonus for the physical edition and the pre-order bonus for the digital edition of *Professor Layton and the New World of Steam*, which is scheduled for release on December 10. The bonus for this title is the “Series Sound Selection,” which features all 11 tracks from the Layton series.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/999/G999905/20261009019/">
+<ns1:title>Xbox Establishes New Division "XP" to Oversee Non-Gaming IP Development; Kayleen Walters, Who Helped Grow the "Minecraft" Merchandise Business, Appointed President</ns1:title>
+<ns1:link>https://www.4gamer.net/games/999/G999905/20261009019/</ns1:link>
+<dc:date>2026-10-09T15:27:17+09:00</dc:date>
+<ns1:description>
+　On October 8, 2026, Microsoft announced the establishment of a new Xbox division called “XP.” This division will consolidate functions—including film and television, merchandising, brand partnerships, and events—that were previously spread across multiple teams. Kayleen Walters, who has led Mojang, will serve as president of the division.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/011/G101152/20261009018/">
+<ns1:title>Songs from *The Legend of Zelda: Majora's Mask* are now available on *Nintendo Music*. The collection includes a total of 111 tracks, such as the background music for "Clock Town."</ns1:title>
+<ns1:link>https://www.4gamer.net/games/011/G101152/20261009018/</ns1:link>
+<dc:date>2026-10-09T15:07:24+09:00</dc:date>
+<ns1:description>
+　Nintendo announced today (October 9, 2026) that it has added music from *The Legend of Zelda: Majora's Mask* to "Nintendo Music," a music service for Nintendo Switch Online subscribers.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/015/G101558/20261009015/">
+<ns1:title>"Dragon's Dogma 2: Dark Arisen" is out today. The game features a story set in the far-northern land of "Norgan," as well as 12 new dungeons containing rare equipment.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/015/G101558/20261009015/</ns1:link>
+<dc:date>2026-10-09T14:47:00+09:00</dc:date>
+<ns1:description>
+　Capcom released "Dragon's Dogma 2: Dark Arisen" today. This title expands upon the open-world action game "Dragon's Dogma 2," which was released in March 2024, by adding new storylines and experiences. It features story content set in the far-northern land of “Norgan,” as well as 12 dungeons containing rare equipment.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/276/G027611/20261009014/">
+<ns1:title>The new "Cities: Skylines" DLCs, "Mansions &amp; Manors" and "Holiday Getaways," will be released on October 28, 2026. "Blueprint Beats Radio," an in-game radio station featuring 16 tracks, will also launch on the same day.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/276/G027611/20261009014/</ns1:link>
+<dc:date>2026-10-09T14:35:15+09:00</dc:date>
+<ns1:description>
+　Paradox Interactive has announced two new content creator packs for *Cities: Skylines*: “Mansions &amp; Manors” and “Holiday Getaways.” Both are scheduled for release on October 28, 2026, for PC, PlayStation, and Xbox. In addition, the in-game radio station “Blueprint Beats Radio” will launch on the same day.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/758/G075801/20261009016/">
+<ns1:title>New artists featured on “Grand Theft Auto VI: The Album” have been revealed. Cardi B and Fuerza Regida have been confirmed to be on the album.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/758/G075801/20261009016/</ns1:link>
+<dc:date>2026-10-09T14:31:12+09:00</dc:date>
+<ns1:description>
+　On October 9, 2026, Rockstar Games announced that “Grand Theft Auto VI: The Album” will feature “Don’t Chart” by rapper Cardi B and “Suzuki” by the music group Fuerza Regida. This album is the soundtrack for “Grand Theft Auto VI,” which the company plans to release on November 19.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/002/G100266/20261009012/">
+<ns1:title>Get the devil who loves you so much he wants to kill you completely drunk. The Russian roulette-style drinking survival game “PUKEY GODDESS SHOT TRICK” is set to be released on December 8.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/002/G100266/20261009012/</ns1:link>
+<dc:date>2026-10-09T14:17:08+09:00</dc:date>
+<ns1:description>
+　Alliance Arts announced today that the PC game “PUKEYGODDESSSHOTTRICK” will be released on December 8, 2026. The price is 666 yen (tax included). This game is a Russian roulette-style drinking survival game in which you engage in a high-stakes game of wits against a demon who loves you so much it wants to kill you—a battle to see who will vomit their soul first.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/426/G042651/20261005004/">
+<ns1:title>It’s okay to create a “world for the world,” not just a world for games. Eric Shai and Fumito Ueda Discuss Game Design [The Tenth Mosaic]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/426/G042651/20261005004/</ns1:link>
+<dc:date>2026-10-09T14:13:20+09:00</dc:date>
+<ns1:description>
+　How did *The Outer Worlds* influence the concept of “holding hands” in *ICO*? Eric Shai and Fumito Ueda explored the commonalities in their creative approaches, including nonverbal expression, dealing with technical constraints, and game design that prioritizes the world.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/049/G104900/20261009013/">
+<ns1:title>"Hololive Mahjong -Holojan-" has begun accepting pre-registrations. A total of 37 Hololive talents will participate, and players can choose their favorite and enjoy playing mahjong with them.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/049/G104900/20261009013/</ns1:link>
+<dc:date>2026-10-09T13:40:33+09:00</dc:date>
+<ns1:description>
+　Today, Cover announced “Hololive Mahjong – Holojan –,” a collaborative title with Aiming, and began accepting pre-registrations. This game is Hololive’s first mahjong title, featuring a total of 37 talents from the female VTuber group “Hololive.” It is scheduled for release later this year on PC, browser, iOS, and Android.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/999/G999901/20261009006/">
+<ns1:title>A book of over 200 pages chronicling the nostalgic "ZX Spectrum" computer is currently being crowdfunded. Covering everything from its inception to recent compatible models, the campaign reached its funding goal in 98 minutes.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/999/G999901/20261009006/</ns1:link>
+<dc:date>2026-10-09T13:09:40+09:00</dc:date>
+<ns1:description>
+　A crowdfunding campaign on Kickstarter for “The Rubber-Keyed Wonder: The Sinclair ZX Spectrum Story”—a book of over 200 pages chronicling the history of the nostalgic “ZX Spectrum” computer—is currently underway until November 2, 2026, at 8:57 p.m. The book covers not only the past but also recent compatible models.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104897/20261009011/">
+<ns1:title>"Girls &amp; Panzer: All-Star Tank Carnival," a game for the Nintendo Switch 2, is set to be released sometime in 2027</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104897/20261009011/</ns1:link>
+<dc:date>2026-10-09T13:01:22+09:00</dc:date>
+<ns1:description>
+　D3 Publisher announced today (October 9, 2026) that it will release the Switch 2 game “Girls &amp; Panzer All-Star Tank Carnival” sometime in 2027. The price has not yet been determined. The game reportedly retains the drift action from “Girls &amp; Panzer: Dream Tank Match” while featuring enhanced graphics and visual effects.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/865/G086555/20261009010/">
+<ns1:title>Set in a world where supernatural phenomena beyond human understanding have become part of everyday life, the mystery adventure game “Angel Organization: Executive Division, Soul Salvation Section”—in which a pair of public security officers investigate “spirit-related incidents”—has released a demo version.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/865/G086555/20261009010/</ns1:link>
+<dc:date>2026-10-09T12:51:29+09:00</dc:date>
+<ns1:description>
+　Circle Yokuniku has released a demo version of its PC mystery adventure game, "Angel Organization Executive Department: Soul Salvation Division," on Steam. The game follows a pair of partners investigating "spiritual harm incidents" that defy human understanding. In the demo, players can experience the game's investigation and deduction mechanics, as well as its unique system for viewing the memories of spirits.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104889/20261009007/">
+<ns1:title>The action adventure game "Waltz and Jam" is set for release on December 3. Join a transforming puppy on an adventure through an afterlife that reinterprets the Seven Deadly Sins.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104889/20261009007/</ns1:link>
+<dc:date>2026-10-09T12:43:16+09:00</dc:date>
+<ns1:description>
+　KRAFTON announced today that it will release “Waltz &amp; Jam” for PC, Switch 2, and PS5 on December 3. Set in an afterlife that reimagines the Seven Deadly Sins, this action-adventure game follows the adventures of “Waltz,” an innocent soul, and “Jam,” an adorable puppy. Players progress by combining their respective abilities.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/964/G096496/20261009003/">
+<ns1:title>"Resequence: The Orchard," an ensemble-style adventure game that uses counseling sessions to uncover the truth behind supernatural phenomena and the disappearance of a wife, has released a demo on Steam.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/964/G096496/20261009003/</ns1:link>
+<dc:date>2026-10-09T12:18:17+09:00</dc:date>
+<ns1:description>
+　Clearreve released a demo version of its PC game “Resequence: The Orchard” on Steam today. This game is an ensemble adventure title that depicts the terror of supernatural phenomena encroaching on everyday life. In the demo, players can experience “Record of Circumstances Leading to Consultation Work” by Raikichi Saito and “Counseling: Session 1” by Sogo Bon.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/908/G090883/20261009009/">
+<ns1:title>"Out of Sight," a horror adventure game in which a girl who has just regained her sight aims to escape from a dangerous mansion, and "TerraScape," a city-building puzzle game where you build a medieval-style kingdom on a floating island, are currently available for free on the Epic Games Store.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/908/G090883/20261009009/</ns1:link>
+<dc:date>2026-10-09T12:09:43+09:00</dc:date>
+<ns1:description>
+　Epic Games is offering "Out of Sight" and "TerraScape" for free on its PC game distribution platform, the Epic Games Store. The promotion runs until 12:00 a.m. on October 16, 2026.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/029/G002975/20260921064/">
+<ns1:title>From gamers and creators to AI developers, if you're looking for a high-performance PC, don't miss "GALLERIA" [PR]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/029/G002975/20260921064/</ns1:link>
+<dc:date>2026-10-09T12:00:00+09:00</dc:date>
+<ns1:description>
+　At the Tokyo Game Show 2026, Third Wave showcased a variety of products at the booth for its high-performance PC brand, “GALLERIA.” Let’s take a look at the latest models from GALLERIA, which has evolved into a brand aimed not only at gamers but also at creators, AI developers, and others who require high-performance PCs.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/008/G100845/20261008053/">
+<ns1:title>"Romance of the Three Kingdoms BOND" will release a major update on October 13. The update will introduce 29 new generals, including "Zhang Liao" and "Sun Ce," as well as a new strategist, "Sima Yi."</ns1:title>
+<ns1:link>https://www.4gamer.net/games/008/G100845/20261008053/</ns1:link>
+<dc:date>2026-10-09T12:00:00+09:00</dc:date>
+<ns1:description>
+　On October 9, 2026, Gerappa announced that it would release a major update on October 13 for “Three Kingdoms BOND,” which is currently in Early Access on Steam. The update will add 29 new generals and a new strategist, “Sima Yi.” Some of the new generals possess strategies that grant additional effects at the “end” of battle.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/941/G094160/20261008025/">
+<ns1:title>The Steam version of "AKIBA LOST," whose release had been delayed, is set to launch on October 21</ns1:title>
+<ns1:link>https://www.4gamer.net/games/941/G094160/20261008025/</ns1:link>
+<dc:date>2026-10-09T12:00:00+09:00</dc:date>
+<ns1:description>
+　Izanagi Games announced today (October 9, 2026) that the Steam version of “AKIBALOST,” whose release had been delayed, will be released on October 21. Additionally, as a gesture of apology and gratitude to players, the discount rate for the two-week-long launch sale will be increased from 10% to 20%.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/802/G080235/20261008054/">
+<ns1:title>"Yun Yun Denpa Syndrome" releases its second DLC today. "Extra Pack feat. KOTOKO" and "Extra Pack feat. YUZUSOFT" are now available.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/802/G080235/20261008054/</ns1:link>
+<dc:date>2026-10-09T12:00:00+09:00</dc:date>
+<ns1:description>
+　Alliance Arts released the second DLC for the PC game "Yun Yun Denpa Syndrome" today (October 9, 2026), adding new songs. To coincide with this, an update has also been released that adds the songs for free.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/484/G048410/20261009002/">
+<ns1:title>The Switch version of "Hogwarts Legacy" (main game + DLC set) is an incredibly low price of 987 yen! "LEGO City: Undercover" is 457 yen! "Last-Minute Sale Info for This Week"</ns1:title>
+<ns1:link>https://www.4gamer.net/games/484/G048410/20261009002/</ns1:link>
+<dc:date>2026-10-09T12:00:00+09:00</dc:date>
+<ns1:description>
+　"This Week's Last-Minute Sale Tips" is a series that carefully selects and highlights classics and especially great deals from titles nearing the end of their sales periods. This week, “Hogwarts Legacy: Digital Deluxe Edition” is 90% off at 987 yen on the Nintendo Store, and “LEGO City Undercover” is 92% off at 457 yen—both are great deals!
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/635/G063598/20261009005/">
+<ns1:title>"Dave the Diver" and "Subnautica 2" are teaming up. New DLC is scheduled for release in early 2027.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/635/G063598/20261009005/</ns1:link>
+<dc:date>2026-10-09T11:29:37+09:00</dc:date>
+<ns1:description>
+　Nexon announced today (October 9, 2026) that it will release a collaborative DLC between “Dave the Diver,” developed by its consolidated subsidiary MINTROCKET, and “Subnautica 2,” developed by Unknown Worlds Entertainment, in early 2027. A trailer and screenshots were also released to coincide with this announcement.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999110/20261009001/">
+<ns1:title>"Kazuki Takahashi Original Art Exhibition": The "Final Turn" of the Battle City Arc Finals is brought to life with newly recorded voice acting. Advance ticket sales for the first half of the exhibition will begin on October 10 at 10:00 a.m.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999110/20261009001/</ns1:link>
+<dc:date>2026-10-09T10:00:00+09:00</dc:date>
+<ns1:description>
+　Shueisha announced today (October 9, 2026) that announced that advance ticket sales on a first-come, first-served basis for the first half of the “Kazuki Takahashi Original Art Exhibition: YU-GI-OH! ARTWORKS,” which opens on December 12, will begin at 10:00 a.m. on October 10, and revealed details about the “Special Video—As Friends!!—” to be screened at the venue. In conjunction with this announcement, information regarding the official exhibition catalog, a themed café, and additional original merchandise was also revealed.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/709/G070944/20261006038/">
+<ns1:title>"Phantom Blade Zero" Features a "Pyramid Structure" That Combines High-Speed Action with an RPG Foundation [Interview]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/709/G070944/20261006038/</ns1:link>
+<dc:date>2026-10-09T09:00:30+09:00</dc:date>
+<ns1:description>
+　S-GAME held a hands-on demo event in Beijing, China, for “PhantomBladeZero,” a PS5/PC game set for release on October 29. Following the six-hour hands-on session, founder and game director Liang Qiwei (aka Soulframe) and sound producer Bo Caisheng participated in a joint interview with Japanese media. We’ll cover everything from the number of bosses and difficulty levels to AI and the game’s action mechanics.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/709/G070944/20261006026/">
+<ns1:title>"Phantom Blade Zero" is a wuxia action RPG that features not only intense swordplay but also in-depth exploration. Even with just rapid button presses, you can become the star of a kung fu movie.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/709/G070944/20261006026/</ns1:link>
+<dc:date>2026-10-09T09:00:00+09:00</dc:date>
+<ns1:description>
+　S-GAME held a hands-on demo event in Beijing, China, for “PhantomBladeZero,” a PS5/PC game set for release on October 29. Attendees were able to play through Chapter 1 in its entirety—a session lasting about five hours—as well as two boss battles taken from the latter half of the game. Beyond the high-speed swordplay, the demo left a lasting impression with its strong emphasis on exploration and the dramatic presentation that made even simple movements feel like a theatrical gesture.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/587/G058755/20261008048/">
+<ns1:title>The anime "Ghost of Tsushima: The Tale of the Shadow Man" is scheduled for release in 2028. Additional staff and cast information was also revealed at the same time.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/587/G058755/20261008048/</ns1:link>
+<dc:date>2026-10-09T08:00:00+09:00</dc:date>
+<ns1:description>
+　It was announced at "New York Comic Con," which opened on October 8, 2026 (local time), that the anime "Ghost of Tsushima: Tales of the Dark" is scheduled for release sometime in 2028. Further details regarding the music, sound director, and cast were also revealed.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/025/G102544/20261008005/">
+<ns1:title>"Dressmaker" (Akane's Steam Pick Up!), where you create dresses for the townspeople from patterns</ns1:title>
+<ns1:link>https://www.4gamer.net/games/025/G102544/20261008005/</ns1:link>
+<dc:date>2026-10-09T08:00:00+09:00</dc:date>
+<ns1:description>
+　In today’s “Akane’s SteamPickUp!”, we’re introducing “Dressmaker,” a dressmaking simulator where you handle every step of the dress-making process yourself—from placing the patterns to ensuring precise seams. Based on the rough requests from townspeople who visit your shop, you’ll decide on a design, buy fabric, place the pattern while checking the grain, cut the fabric, and sew it together on a sewing machine.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999104/20261006020/">
+<ns1:title>An era where imagination becomes content is just around the corner. Ken Kutaragi, the creator of PlayStation, discusses entertainment in the age of AI [Interview]</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999104/20261006020/</ns1:link>
+<dc:date>2026-10-09T07:00:00+09:00</dc:date>
+<ns1:description>
+　We spoke with Ken Kutaragi, known as the father of the PlayStation, about the history of technological innovation in the gaming industry and the future of entertainment brought about by AI. Kutaragi, who says, “Imagination becomes content,” shares his vision for the future of games and AI. We took a closer look at his outlook.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104888/20261008052/">
+<ns1:title>The calendar remains frozen on the eve of the millennium—how did this Chinese town meet its end? The new psychological horror game “Soul Scream” is set for release in 2027.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104888/20261008052/</ns1:link>
+<dc:date>2026-10-09T02:00:00+09:00</dc:date>
+<ns1:description>
+　IOIGAMER announced today (October 9, 2026) that it will release “Kyo Kon,” a first-person psychological horror game featuring a cinematic narrative experience, sometime in 2027. Players will investigate the reasons behind the downfall of a small Chinese town where time seems to have stood still just before the dawn of a new century.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/649/G064915/20261008051/">
+<ns1:title>"Fatal Fury: CotW" × "Tokyo Revengers": Trailer Introducing Collaboration Characters Released. Mikey &amp; Draken Head to South Town</ns1:title>
+<ns1:link>https://www.4gamer.net/games/649/G064915/20261008051/</ns1:link>
+<dc:date>2026-10-08T22:00:00+09:00</dc:date>
+<ns1:description>
+　SNK announced today (October 8, 2026) that it has released a character trailer for “Manjiro Sano (Mikey),” a collaboration character from the anime “Tokyo Revengers” joining the fighting game “Fatal Fury: City of the Wolves” and “Ken Ryūgūji (Draken)” from the anime “Tokyo Revengers.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104885/20261008047/">
+<ns1:title>"Let's Organize the Capybaras!," a tidying-up game where you place 4,800 adorable capybara toys on the correct shelves, is now available on Steam.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104885/20261008047/</ns1:link>
+<dc:date>2026-10-08T21:04:53+09:00</dc:date>
+<ns1:description>
+　CapybaraKoala began distributing its PC game "Let's Tidy Up the Capybaras!" on Steam today. This game is a tidying-up game in which players must correctly organize as many as 4,800 cute capybara toys across 12 themed areas.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/900/G090034/20261008050/">
+<ns1:title>Survive alongside your friends in a barren, ice-bound land. The demo version of “Frostrail” is set to be released on October 19.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/900/G090034/20261008050/</ns1:link>
+<dc:date>2026-10-08T20:56:56+09:00</dc:date>
+<ns1:description>
+　On October 7, 2026, FakeFish announced that it would release a demo version of its upcoming title, “Frostrail,” on October 19. Set in a barren, ice-bound wasteland, the game is an open-world survival first-person shooter in which players embark on a journey aboard an armored steam locomotive.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/010/G101096/20261008049/">
+<ns1:title>The official live stream for “Jigoku Kōrin” will air on October 14 at 9:00 p.m. Reiya Takahashi and Shōtarō Morikubo will appear.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/010/G101096/20261008049/</ns1:link>
+<dc:date>2026-10-08T20:43:01+09:00</dc:date>
+<ns1:description>
+　The Beppu City Public Works Bureau will stream the official live broadcast of the IP project “Jigoku Kōrin” starting at 9:00 p.m. on October 14. The program will feature Reiya Takahashi, who plays Umi, and Shōtarō Morikubo, who plays Ryūmaki, and will include a cast discussion and special segments.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104886/20261008046/">
+<ns1:title>While enjoying shopping on a fictional online store, strange items begin to appear on the shelves... The text-based psychological horror adventure game "Cursed Shopping" is now available as a demo.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104886/20261008046/</ns1:link>
+<dc:date>2026-10-08T20:34:32+09:00</dc:date>
+<ns1:description>
+　TOBONGAME today began distributing a demo version of "Cursed Shopping," a psychological horror adventure game for PC currently in development, on Steam. In this game, as you shop on a fictional online store, strange items begin to appear; by investigating them, you gradually uncover the full story behind a certain incident.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/004/G100451/20261008045/">
+<ns1:title>Details Announced for Nijisanji's Girls Idol Event, "Girls Idol Festival ~Connecting Rainbows, Finding the Future~"</ns1:title>
+<ns1:link>https://www.4gamer.net/games/004/G100451/20261008045/</ns1:link>
+<dc:date>2026-10-08T20:27:00+09:00</dc:date>
+<ns1:description>
+　On October 7, 2026, ANYCOLOR announced details for the live event “Nijisanji Girls Idol Festival: Connecting Rainbows, Finding the Future,” scheduled to take place over two days—December 19 and 20—at Hall 5 of Intex Osaka in Osaka City.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/456/G045622/20261008044/">
+<ns1:title>"Goddess of Victory: NIKKE" Releases Latest Version, "LITTLE WITCH TRICK"</ns1:title>
+<ns1:link>https://www.4gamer.net/games/456/G045622/20261008044/</ns1:link>
+<dc:date>2026-10-08T20:17:58+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/609/G060942/20261008042/">
+<ns1:title>"ARC Raiders" Launches Major Update "Frozen Trail." The new snow-covered map "Pendora Pass" and three new enemy types make their debut.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/609/G060942/20261008042/</ns1:link>
+<dc:date>2026-10-08T20:09:14+09:00</dc:date>
+<ns1:description>
+　Nexon today rolled out the major update "FrozenTrail" for the PvPvE extraction shooter "ARCRaiders." The update adds the new map "Pendora Pass" and three new enemy types. The game will be free to play through October 12, and a beta test for PvE matchmaking will begin on the 13th.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/991/G999106/20261008004/">
+<ns1:title>In the latest video from Washagana TV, we introduce the "Super Asurada 01" figure, released to commemorate the 35th anniversary of the anime, which features transformation functions and sound effects.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/991/G999106/20261008004/</ns1:link>
+<dc:date>2026-10-08T20:00:00+09:00</dc:date>
+<ns1:description>
+　Today, the latest episode of the web show “Washagana TV,” featuring voice actor Yuichi Nakamura and freelance writer Mafia Kajita, was released. In this episode, as part of Nakamura’s “Personal Collection” segment, he introduces a figure of the “Super Asurada 01” from the anime “New Century GPX Cyber Formula.”
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/903/G090320/20261008040/">
+<ns1:title>"Neon Abyss 2," a cyber-mythology roguelike for up to four players, has officially launched. It features a final boss and new modes.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/903/G090320/20261008040/</ns1:link>
+<dc:date>2026-10-08T19:39:17+09:00</dc:date>
+<ns1:description>
+　VeewoGames officially released the cyber-mythological roguelike action game "NeonAbyss 2" today (October 8, 2026). The official release includes the final boss, "Theia: God of Vanity," and a new mode called "Storm Breach."
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/999/G999903/20261008041/">
+<ns1:title>"JuJu Densetsu" (International Title: "Toki") is making a comeback. This is not a remake, but rather a plan to port the game to game consoles and PCs that were not supported at the time.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/999/G999903/20261008041/</ns1:link>
+<dc:date>2026-10-08T19:34:07+09:00</dc:date>
+<ns1:description>
+　NEWOLDPIXELS announced that it has signed a licensing agreement with Microids regarding "The Legend of JuJu" (international title: "Toki"). The plan is not to create a remake, but to make the original version playable on game consoles and computers that did not support it at the time.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/048/G104884/20261008039/">
+<ns1:title>In a city inspired by 1990s China, players complete tasks while driving utility vehicles such as small trucks and taxis. The driving game "SHIFU: Traffic Masters" is now available as a demo.</ns1:title>
+<ns1:link>https://www.4gamer.net/games/048/G104884/20261008039/</ns1:link>
+<dc:date>2026-10-08T19:11:03+09:00</dc:date>
+<ns1:description>
+　Boxy.Poly today released a demo version of the PC driving game “SHIFU: TrafficMasters” on Steam. Set in a city inspired by 1990s China, the game lets players drive small trucks, taxis, buses, police cars, and more to complete various jobs.
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/476/G047609/20261008038/">
+<ns1:title>"Proseca" Adds Rhythm Game Track "Ultimate Senpai"</ns1:title>
+<ns1:link>https://www.4gamer.net/games/476/G047609/20261008038/</ns1:link>
+<dc:date>2026-10-08T18:40:36+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/202/G020261/20261008037/">
+<ns1:title>"Puyo Quest" to Stream "Puyo Quest Official Live Broadcast ~13.5th Anniversary Special~" on October 10</ns1:title>
+<ns1:link>https://www.4gamer.net/games/202/G020261/20261008037/</ns1:link>
+<dc:date>2026-10-08T18:32:13+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/223/G022384/20261008036/">
+<ns1:title>"Chain Chronicle": "Cynestia," Aiming to Win Every Event at the Sports Festival, Makes Its Debut</ns1:title>
+<ns1:link>https://www.4gamer.net/games/223/G022384/20261008036/</ns1:link>
+<dc:date>2026-10-08T18:23:36+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/882/G088214/20261008035/">
+<ns1:title>"Sonic Racing Cross World" to Release Its Sixth Paid DLC, "The Legend of the Avatar," on October 14</ns1:title>
+<ns1:link>https://www.4gamer.net/games/882/G088214/20261008035/</ns1:link>
+<dc:date>2026-10-08T18:18:11+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/040/G104086/20261008034/">
+<ns1:title>The cooperative survival horror game "Inbokia: The Cursed Dice Game" has been released in Early Access on Steam</ns1:title>
+<ns1:link>https://www.4gamer.net/games/040/G104086/20261008034/</ns1:link>
+<dc:date>2026-10-08T18:17:47+09:00</dc:date>
+<ns1:description>
+　Today (October 8, 2026), Shochiku Games released the Early Access version of “Inbokia: The Cursed Dice Game,” a cooperative survival horror game supporting up to six players simultaneously, on Steam. The price is 1,200 yen (tax included).
+</ns1:description>
+</ns1:item>
+
+	<ns1:item rdf:about="https://www.4gamer.net/games/915/G091522/20261008033/">
+<ns1:title>"Sakatuku 2026" to Stream the First Episode of Its New Show, "Sakatuku TV Additional Time," on October 15</ns1:title>
+<ns1:link>https://www.4gamer.net/games/915/G091522/20261008033/</ns1:link>
+<dc:date>2026-10-08T18:13:49+09:00</dc:date>
+<ns1:description>
+
+</ns1:description>
+</ns1:item>
+
+
+
+</rdf:RDF>
